@@ -46,17 +46,17 @@ s - save a screenshot
 use these controls to improve face detection: 
 the lights around you are very important
 
-d - debug mode                
-3 - decrease brigthness       
-4 - increase brigthness
-5 - decrease contrast
-6 - increase contrast
+d - debug mode                 
+3 - decrease brigthness         
+4 - increase brigthness  
+5 - decrease contrast  
+6 - increase contrast  
 
-with debug Mode On:
-c - eat all carrots
-k - kill rabbit
-g - show/hide gun
-e - show results during game 
+with debug Mode On:  
+c - eat all carrots  
+k - kill rabbit  
+g - show/hide gun  
+e - show results during game  
 
 DISCLAIMER
 
