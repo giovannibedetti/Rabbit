@@ -8,7 +8,7 @@ boolean debugOn=false;
 Capture video;
 OpenCV opencv;
 
-int levels=5;
+int levels=3;
 
 //rabbit images
 int nCuts = 5;
