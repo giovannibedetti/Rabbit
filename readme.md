@@ -33,7 +33,7 @@ this code is for Mac OSX only, future releases will provide Windows and Linux co
 FOR THIS TO WORK YOU WILL NEED:
 
 the opencv library
-http://ubaa.net/shared/processing/opencv/
+https://github.com/atduskgreg/opencv-processing
 
 the ani library for Processing if you want to recompile instead of using the application
 http://www.looksgood.de/libraries/Ani/
