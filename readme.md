@@ -30,12 +30,12 @@ NOTES:
 this code is for Mac OSX only, future releases will provide Windows and Linux compatibility
 
 
-FOR THIS TO WORK YOU WILL NEED:
+libraries used:
 
 the opencv library
 https://github.com/atduskgreg/opencv-processing
 
-the ani library for Processing if you want to recompile instead of using the application
+the ani library
 http://www.looksgood.de/libraries/Ani/
 
 
